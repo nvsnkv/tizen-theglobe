@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://github.com/nvsnkv/tizen-theglobe" version="0.0.1" viewmodes="fullscreen">
+    <tizen:application id="QjhqWmlq2v.TheGlobe" package="QjhqWmlq2v" required_version="3.0"/>
+    <author href="https://gihub.com/nvsnkv" email="nvsnkv@gmail.com">Nikita Senkov</author>
+    <content src="index.html"/>
+    <description>Simple spinning globe. Thanks to&#xD;
+http://planetaryjs.com/ for the scripts!&#xD;
+&#xD;
+Icon made by Freepik from www.flaticon.com is licensed by Creative Commons BY 3.0&#xD;
+http://www.freepik.com&#xD;
+</description>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="earth-grid.png"/>
+    <license href="https://opensource.org/licenses/MIT">MIT</license>
+    <name>TheGlobe</name>
+    <tizen:profile name="wearable"/>
+</widget>
